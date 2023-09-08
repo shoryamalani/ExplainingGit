@@ -1,0 +1,1 @@
+hello... what is git? how is git? why is git? I'm not even using an IDE or VS code im just using github editor
