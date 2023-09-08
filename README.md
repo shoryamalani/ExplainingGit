@@ -9,3 +9,6 @@ switch to using it,
 add a file and add some text to it
 commit the file
 and push the new branch to this branch
+
+
+If you get stuck, google, if you get very stuck read the following instructions: https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
